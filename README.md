@@ -10,3 +10,5 @@ my principal techonlogies in study: <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="28">" 
 <img src="https://plugins.jetbrains.com/files/6098/351655/icon/pluginIcon.svg" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width ="40">
+<img src ="![image](https://github.com/marcospaulo2486/marcospaulo2486/assets/108994819/eac96cfb-ebf0-47d6-92b2-fb2c50cbe8ac)
+" width = "40">
