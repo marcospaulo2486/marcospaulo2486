@@ -1,7 +1,7 @@
 Hello There!💻
 Welcome to my Professional Profile on GitHub!
 
-<img src="https://media.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen>
+//<img src="https://media.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 My Name is Marcos Paulo and these are
 my principal techonlogies in study: <br>
