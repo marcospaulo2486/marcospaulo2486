@@ -9,11 +9,11 @@
 
 ## 👋 Sobre Mim
 
-> Desenvolvedor Java Back-End em formação, movido pela paixão em resolver problemas reais com código limpo e eficiente. Acredito no aprendizado rápido como diferencial e na melhoria contínua como estilo de vida. Gosto de trabalhar em equipe, sou proativo e me adapto bem a ambientes ágeis — sempre buscando entregar valor em cada etapa do processo.
-
+> Desenvolvedor Java Back-End em formação, movido pela paixão em resolver problemas reais com código limpo e eficiente. Acredito no aprendizado rápido como diferencial e na melhoria contínua como estilo de vida. Gosto de trabalhar em equipe, sou proativo e me adapto bem a ambientes ágeis.
+> 
 - 🎯 **Foco atual:** Desenvolvimento de sistemas e soluções escaláveis para empresas e projetos
 - 🧠 **Hard Skills:** Engenharia de Prompt, Microsserviços, APIs REST e GraphQL, CI/CD, Cloud (OCI) e Testes Automatizados
-- 🤝 **Soft Skills:** Foco em resultados, solução de problemas, aprendizado eficiente, comunicação, trabalho em equipe e criatividade
+- 🤝 **Soft Skills:** Foco em resultados, solução de problemas, metodologias ágeis, melhoria contínua, aprendizado eficiente, comunicação, trabalho em equipe e criatividade
 - 💼 **Buscando:** Oportunidades como desenvolvedor (estágio, júnior ou pleno) — projetos freelancer ou vagas CLT/PJ
 - 📍 Mossoró, RN — Brasil 🇧🇷
 
