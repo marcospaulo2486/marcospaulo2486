@@ -46,11 +46,19 @@
 
 ---
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcospaulo2486&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo2486&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
+<!-- 
+  OPÇÃO 1 — URLs originais do github-readme-stats (instância pública)
+  Substituídas pois a instância pública frequentemente sofre com rate limit e sobrecarga,
+  fazendo as imagens não renderizarem. Para reativar, considere fazer seu próprio deploy
+  gratuito no Vercel: https://github.com/anuraghazra/github-readme-stats
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcospaulo2486&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo2486&layout=compact&langs_count=7&theme=tokyonight"/>-->
+<!-- OPÇÃO 2 — Alternativas mais estáveis -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcospaulo2486&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcospaulo2486&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcospaulo2486&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=marcospaulo2486&theme=tokyonight&hide_border=false"/>
 
 </div>
 
