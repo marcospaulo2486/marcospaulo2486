@@ -18,6 +18,7 @@
 
 ## 🛠️ Linguagens & Tecnologias
 <div align="center">  
+ 
 <!-- LINGUAGENS -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +48,6 @@
   Substituídas pois a instância pública frequentemente sofre com rate limit e sobrecarga,
   fazendo as imagens não renderizarem. Para reativar, considere fazer seu próprio deploy
   gratuito no Vercel: https://github.com/anuraghazra/github-readme-stats
-
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcospaulo2486&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo2486&layout=compact&langs_count=7&theme=tokyonight"/>
 -->
